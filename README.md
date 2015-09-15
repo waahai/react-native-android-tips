@@ -13,4 +13,4 @@ set _JAVA_OPTIONS="-DsocksProxyHost=<YourProxyHost> -DsocksProxyPort=<YourProxyP
 >Default Sock port is 1080
 
 You will see something like this at the start:
->Picked up _JAVA_OPTIONS: -DsocksProxyHost=<YourProxyHost>
+>Picked up _JAVA_OPTIONS: -DsocksProxyHost=127.0.0.1
